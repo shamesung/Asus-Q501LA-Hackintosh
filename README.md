@@ -32,7 +32,8 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 - Updated for El Capitan
 
 # <a name="Requirements"></a> Requirements
-- Asus Q501LA ( http://www.amazon.com/Asus-Q501LA-BBI5T03-15-6-Touch-Screen-Laptop/dp/B00FRSXJKI ) 
+- Asus Q501LA ( http://www.amazon.com/Asus-Q501LA-BBI5T03-15-6-Touch-Screen-Laptop/dp/B00FRSXJKI )
+- Asus Q501LA {i5-4210U ONLY} (http://www.amazon.com/Asus-Q502LA-BBI5T12-Touch-Screen-Laptop-Convertible/dp/B00S8ISOW2)
 - MaciASL ( http://sourceforge.net/projects/maciasl/files/ ) --> If you want to modify some .aml files
 - MAC OSX distro, use AppStore. Please avoid 3rd-party distro(s)!
 
