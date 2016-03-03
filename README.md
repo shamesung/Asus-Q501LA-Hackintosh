@@ -26,7 +26,7 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 - SD Card Reader (not tested!)
 - Graphical glitches (1-2%)
 - Doesn't fully shutdown (20% of the time)
-- Trackpad is slow and 2-finger scroll doesn't work properly
+- Trackpad is slow
 - Intel Wi-Fi Card (Needs to be replaced) Recommended: BCM94352
 - Touchscreen Partially Works - Able to move cursor around but tapping anying on the screen will have undesired results
 - HDMI Audio does not work (may be fixable)
