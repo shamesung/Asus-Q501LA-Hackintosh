@@ -24,7 +24,7 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 
 # <a name="Issues"></a> Issues
 - SD Card Reader (not tested!)
-- Wake from Sleep (shuts down when trying to wake the laptop)
+- Graphical glitches (1-2%)
 - Doesn't fully shutdown (20% of the time)
 - Trackpad is slow and 2-finger scroll doesn't work properly
 - Intel Wi-Fi Card (Needs to be replaced) Recommended: BCM94352
