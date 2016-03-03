@@ -27,13 +27,14 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 - Wake from Sleep (shuts down when trying to wake the laptop)
 - Doesn't fully shutdown (20% of the time)
 - Trackpad is slow and 2-finger scroll doesn't work properly
+- Intel Wi-Fi Card (Needs to be replaced) Recommended: BCM94352
 
 # <a name="Changelog"></a> Changelog
 - Updated for El Capitan
 
 # <a name="Requirements"></a> Requirements
 - Asus Q501LA ( http://www.amazon.com/Asus-Q501LA-BBI5T03-15-6-Touch-Screen-Laptop/dp/B00FRSXJKI )
-- Asus Q501LA **i5-4210U ONLY** (http://www.amazon.com/Asus-Q502LA-BBI5T12-Touch-Screen-Laptop-Convertible/dp/B00S8ISOW2)
+- Asus Q502LA **i5-4210U ONLY** (http://www.amazon.com/Asus-Q502LA-BBI5T12-Touch-Screen-Laptop-Convertible/dp/B00S8ISOW2)
 - MaciASL ( http://sourceforge.net/projects/maciasl/files/ ) --> If you want to modify some .aml files
 - MAC OSX distro, use AppStore. Please avoid 3rd-party distro(s)!
 
