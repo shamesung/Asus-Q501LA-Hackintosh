@@ -91,6 +91,7 @@ Then reboot, you should have close to 100% stable hackintosh.
 - Rehabman & his repo
 - conradolpz - for sleep and changes in BIOs
 - [gvkt](https://github.com/gvkt/) - updated my repository for Yosemite
+- RanbirAulakh
 
 # <a name="FAQs"></a> FAQs
 **I got kernel panic. What should I do?**
