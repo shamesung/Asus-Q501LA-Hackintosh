@@ -1,14 +1,15 @@
-##Asus Q501/Q502LA Hackintosh##
+##Asus Q501/Q502LA Hackintosh## FORKED From https://github.com/RanbirAulakh/Asus-Q501LA-Hackintosh
+
 Hello,
 
-Sorry for not updating repository for Yosemite, however big thanks to [USER]. I have updated this repository for El Capitan. This laptop, Asus Q501LA, is near 100% stable. There are some issues, see the **issues** section. This is just for educational purposes and do it in your own risk! Once again, this only works with **Asus Q501LA and Q502LA**. 
+I have updated this repository for El Capitan. This laptop, Asus Q501LA/Q502LA, is near 100% stable. There are some issues, see the **issues** section. This is just for educational purposes and do it in your own risk! Once again, this only works with **Asus Q501LA and Q502LA**. 
 
 How to install Maverick/Yosemite on Asus Q501LA:
 https://github.com/RanbirAulakh/Asus-Q501LA-Hackintosh/wiki and additional reading for Yosmite:
 https://github.com/gvkt/Asus-Q501LA-Hackintosh/wiki
 
 How to install El Capitan on Asus Q501LA:
-https://github.com/RanbirAulakh/Asus-Q501LA-Hackintosh/wiki/Install-El-Capitan-on-Asus-Q501LA and download the [zip file](https://github.com/RanbirAulakh/Asus-Q501LA-Hackintosh/releases/tag/1.0)
+https://github.com/shamesung/Asus-Q501LA-Q502LA-Hackintosh/wiki/3.-El-Capitan-Install and download the [zip file](https://github.com/RanbirAulakh/Asus-Q501LA-Hackintosh/releases/tag/1.0)
 
 PS: You are free to fork this and improve anything, if there is an improvement, I will accept changes!
 
@@ -24,7 +25,8 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 # <a name="Issues"></a> Issues
 - SD Card Reader (not tested!)
 - Wake from Sleep (shuts down when trying to wake the laptop)
-- Doesn't fully shutdown (50% of the time)
+- Doesn't fully shutdown (20% of the time)
+- Trackpad is slow and 2-finger scroll doesn't work properly
 
 # <a name="Changelog"></a> Changelog
 - Updated for El Capitan
