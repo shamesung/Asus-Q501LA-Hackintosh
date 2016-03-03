@@ -82,7 +82,7 @@ In `kexts` folder, you find:
 - RealtekRTL8111.kext
 - AppleHDA.kext
 
-I recommend you install `AppleHDA`, `CodecCommander`, `FakePCIID_Intel_HD_Graphics`, `FakePCIID`, and `ApplePS2SmartTouchPad` directly into `/System/Library/Extensions/`. And the rest goes to `/Volumes/efi/EFI/CLOVER/kexts/Other/`. Then fix permissions (using kext utility).
+I recommend you install `AppleHDA`, `CodecCommander`, `[FakePCIID_Intel_HD_Graphics](https://bitbucket.org/RehabMan/os-x-fake-pci-id/downloads)`, `FakePCIID`, and `ApplePS2SmartTouchPad` directly into `/System/Library/Extensions/`. And the rest goes to `/Volumes/efi/EFI/CLOVER/kexts/Other/`. Then fix permissions (using kext utility).
 
 Then reboot, you should have close to 100% stable hackintosh.
 
