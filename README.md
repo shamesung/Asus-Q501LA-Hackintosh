@@ -28,6 +28,7 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 - Doesn't fully shutdown (20% of the time)
 - Trackpad is slow and 2-finger scroll doesn't work properly
 - Intel Wi-Fi Card (Needs to be replaced) Recommended: BCM94352
+- Touchscreen Partially Works - Able to move cursor around but tapping anying on the screen will have undesired results
 
 # <a name="Changelog"></a> Changelog
 - Updated for El Capitan
