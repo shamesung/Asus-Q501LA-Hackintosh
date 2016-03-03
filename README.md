@@ -102,4 +102,4 @@ Then reboot, you should have close to 100% stable hackintosh.
 - SSDT 6 is Sleep/_WAK related.
 
 **What to do if you found an issue or bug?**
-- Login your github account and go to my project and report an issue. Then I will look over your issue.
+- Login your github account and go [here](https://github.com/RanbirAulakh/Asus-Q501LA-Hackintosh/issues) and report an issue. Then I will look over your issue.
