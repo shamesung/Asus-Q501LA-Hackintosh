@@ -5,6 +5,8 @@ Hello,
 I have updated this repository for El Capitan. This laptop, Asus Q501LA/Q502LA, is near 100% stable. There are some issues, see the **issues** section. This is just for educational purposes and do it in your own risk! Once again, this only works with **Asus Q501LA and Q502LA**. 
 
 How to install Maverick/Yosemite on Asus Q501LA:
+* https://github.com/shamesung/Asus-Q501LA-Q502LA-Hackintosh/wiki/2.-Yosemite-Install
+Additional reading:
 * https://github.com/RanbirAulakh/Asus-Q501LA-Hackintosh/wiki and additional reading for Yosemite:
 * https://github.com/gvkt/Asus-Q501LA-Hackintosh/wiki
 
