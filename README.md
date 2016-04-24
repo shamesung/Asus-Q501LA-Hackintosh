@@ -17,7 +17,7 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 * [Issues](#Issues)
 * [Changelog](#Changelog)
 * [Requirements](#Requirements)
-* [Instructions](#Instructions)
+* [DSDT Instructions](#Instructions)
 * [Kexts](#Kexts)
 * [Credit](#Credit)
 * [FAQs](#FAQs)
@@ -41,7 +41,7 @@ PS: You are free to fork this and improve anything, if there is an improvement, 
 - MaciASL ( http://sourceforge.net/projects/maciasl/files/ ) --> If you want to modify some .aml files
 - MAC OSX distro, use AppStore. Please avoid 3rd-party distro(s)!
 
-# <a name="Instructions"></a> Instructions
+# <a name="Instructions"></a> DSDT Instructions
 This DSDT and SSDT only works in **Asus Q501LA/Q502LA**. This will **not work** on other laptop.
 
 **How to open EFI parition:**
